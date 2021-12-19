@@ -21,7 +21,7 @@ const belu = {
 
 [Email 📬](mailto:mbelen.alaye@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orhianna&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?orhianna={orhianna}
 
 
 <!--
