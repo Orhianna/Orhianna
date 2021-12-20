@@ -17,7 +17,7 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
    <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>
     
  </p>
-
+<p width='40%' align="right">
 🌱 I’m currently learning: ReactNative and Typescript
 ```javascript
 const belu = {
@@ -27,7 +27,7 @@ const belu = {
   challenge: "I am learning ReactNative and Typescript "
 }
 ```
-
+</p>
 
 
 [LinkedIn 💼](https://www.linkedin.com/in/mbelen-alaye/)
