@@ -20,21 +20,23 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
 </p>
  
  
-🌱 I’m currently learning: ReactNative and Typescript
+:nerd_face: I’m currently learning: ReactNative and Typescript
 
-📫 How to reach me:
+:dart: How to reach me:
 
 [LinkedIn 💼](https://www.linkedin.com/in/mbelen-alaye/)
 
 [Twitter 🐦](https://twitter.com/mbelenalaye)
 
-[Email 📬](mailto:mbelen.alaye@gmail.com)
+[Email :e-mail:](mailto:mbelen.alaye@gmail.com)
 
  <p align="left">
     <img align="center" alt="Orhianna GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhianna&layout=compact" />
 </p>
 <div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orhianna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Orhianna's Github Stats">
+<p align="center">
+    <img align="center" alt="María Belén Alaye GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Orhianna&show_icons=true&count_private=true" />
+</p>
 
   
 <!--
