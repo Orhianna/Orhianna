@@ -5,21 +5,17 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
 
 ## A little more about me... 
 
-<p width='40%' height="100%"align="center"> 
+<p width='40%' height="100%"align="left"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" alt="bootstrap"             width="40" height="40"/> </a>    
  </p>
  
- <p width='40%' align="center">
+ <p width='40%' align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>
-   <a href="https://vuejs.org/" target="_blank"> <img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=40&color=2ec539" alt="redux" width="40" height="40"/> 
-    </a>
-    <a href="https://es.redux.js.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/> 
-    </a>
-   
+    
  </p>
 
 🌱 I’m currently learning: ReactNative and Typescript
