@@ -23,18 +23,21 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
 :nerd_face: I’m currently learning: ReactNative and Typescript
 
 :dart: How to reach me:
+<p>
+      <a href="https://www.linkedin.com/in/mbelen-alaye/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="María Belén Alaye LinkedIn Profile" height="30" width="30">
+      </a>   
+      <a align='right' href="mailto:mbelen.alaye@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+   </p>
 
-[LinkedIn 💼](https://www.linkedin.com/in/mbelen-alaye/)
-
-[Twitter 🐦](https://twitter.com/mbelenalaye)
-
-[Email :e-mail:](mailto:mbelen.alaye@gmail.com)
 
  <p align="left">
     <img align="center" alt="Orhianna GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhianna&layout=compact" />
 </p>
 <div align="left">
-<p align="center">
+<p align="left">
     <img align="center" alt="María Belén Alaye GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Orhianna&show_icons=true&count_private=true" />
 </p>
 
@@ -52,4 +55,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[LinkedIn 💼](https://www.linkedin.com/in/mbelen-alaye/)
+
+[Twitter 🐦](https://twitter.com/mbelenalaye)
+
+[Email :e-mail:](mailto:mbelen.alaye@gmail.com)
 -->
