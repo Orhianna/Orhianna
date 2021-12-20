@@ -16,6 +16,7 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
    <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=2ec539"             alt="postgresql" width="40" height="40"/> </a>
    <a href="https://sequelize.org" target="_blank"> <img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="postgresql" width="40"               height="40"/> </a>  
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
  
  
