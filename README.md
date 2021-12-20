@@ -30,13 +30,12 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
 
 [Email 📬](mailto:mbelen.alaye@gmail.com)
 
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orhianna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Orhianna's Github Stats">
- <p align="center">
+ <p align="left">
     <img align="center" alt="Orhianna GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhianna&layout=compact" />
 </p>
+<div align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orhianna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Orhianna's Github Stats">
+
   
 <!--
 **Orhianna/Orhianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
