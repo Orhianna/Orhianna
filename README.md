@@ -5,19 +5,16 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
 
 ## A little more about me... 
 
+### Technologies
 <p width='40%' height="100%"align="left"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com" target="_blank"> <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" alt="bootstrap"             width="40" height="40"/> </a>    
- </p>
- 
- <p width='40%' align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>
-    
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react" width="40" height="40"/> </a>
  </p>
-<p width='40%' align="right">
+ 
+ 
 🌱 I’m currently learning: ReactNative and Typescript
 ```javascript
 const belu = {
@@ -27,7 +24,7 @@ const belu = {
   challenge: "I am learning ReactNative and Typescript "
 }
 ```
-</p>
+
 
 
 [LinkedIn 💼](https://www.linkedin.com/in/mbelen-alaye/)
