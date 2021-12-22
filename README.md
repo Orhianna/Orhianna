@@ -1,4 +1,5 @@
 # Hi there, I'm Belu 👋
+
 ## Full Stack Developer 
 
 Curiosity killed the cat 🐱 they say… but it took me to where I am now. Knowing and learning new fields made me venture into technology with Henry, from degree in advertising to Full Stack Developer 💻. A combination that fills me with passion 💙 and wanting to face new challenges 💪.
@@ -21,11 +22,13 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
  
+ 
+###I’m currently learning:
+ReactNative and Typescript :nerd_face:
+
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-:nerd_face: I’m currently learning: ReactNative and Typescript
-
-:dart: How to reach me:
+###How to reach me :dart::
 <p>
       <a href="https://www.linkedin.com/in/mbelen-alaye/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="María Belén Alaye LinkedIn Profile" height="30" width="30">
