@@ -3,6 +3,8 @@
 
 Curiosity killed the cat 🐱 they say… but it took me to where I am now. Knowing and learning new fields made me venture into technology with Henry, from degree in advertising to Full Stack Developer 💻. A combination that fills me with passion 💙 and wanting to face new challenges 💪.
 
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
 ## A little more about me... 
 
 ### Technologies
@@ -19,7 +21,8 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
  
- 
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
 :nerd_face: I’m currently learning: ReactNative and Typescript
 
 :dart: How to reach me:
@@ -32,6 +35,7 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
       </a>  
    </p>
 
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
  <p align="left">
     <img align="center" alt="Orhianna GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhianna&layout=compact" />
