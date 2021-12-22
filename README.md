@@ -1,6 +1,6 @@
 # Hi there, I'm Belu 👋
 
-## Full Stack Developer 
+### Full Stack Developer 
 
 Curiosity killed the cat 🐱 they say… but it took me to where I am now. Knowing and learning new fields made me venture into technology with Henry, from degree in advertising to Full Stack Developer 💻. A combination that fills me with passion 💙 and wanting to face new challenges 💪.
 
