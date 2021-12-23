@@ -8,7 +8,7 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
 
 ## A little more about me... 
 
-### Technologies
+### :computer: Technologies
 <p width='40%' height="100%"align="left"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
@@ -22,8 +22,13 @@ Curiosity killed the cat 🐱 they say… but it took me to where I am now. Know
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
  
-### :nerd_face: I´m currently learning:
-ReactNative and Typescript 
+### :book: I´m currently learning
+
+ReactNative and Typescript
+
+### :hearts: Hobbies
+
+I love to watch movies :clapper:, read a good book :ledger:, play videogames :video_game: and drawing :art:
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
@@ -39,13 +44,7 @@ ReactNative and Typescript
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
- <p align="left">
-    <img align="center" alt="Orhianna GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhianna&layout=compact" />
-</p>
-<div align="left">
-<p align="left">
-    <img align="center" alt="María Belén Alaye GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Orhianna&show_icons=true&count_private=true" />
-</p>
+ ![Belu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orhianna&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orhianna&layout=compact&theme=buefy)](https://github.com/Orhianna/github-readme-stats)
 
   
 <!--
